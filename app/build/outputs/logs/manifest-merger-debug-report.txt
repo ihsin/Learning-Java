@@ -1,0 +1,234 @@
+-- Merging decision tree log ---
+manifest
+ADDED from B:\Android Training\MyApplication\app\src\main\AndroidManifest.xml:2:1-51:12
+	package
+		ADDED from B:\Android Training\MyApplication\app\src\main\AndroidManifest.xml:3:5-49
+		INJECTED from B:\Android Training\MyApplication\app\src\main\AndroidManifest.xml
+		INJECTED from B:\Android Training\MyApplication\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from B:\Android Training\MyApplication\app\src\main\AndroidManifest.xml
+		INJECTED from B:\Android Training\MyApplication\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from B:\Android Training\MyApplication\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from B:\Android Training\MyApplication\app\src\main\AndroidManifest.xml
+		INJECTED from B:\Android Training\MyApplication\app\src\main\AndroidManifest.xml
+application
+ADDED from B:\Android Training\MyApplication\app\src\main\AndroidManifest.xml:5:5-49:19
+MERGED from [com.android.support:appcompat-v7:24.2.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:24.2.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:24.2.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:24.2.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from B:\Android Training\MyApplication\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from B:\Android Training\MyApplication\app\src\main\AndroidManifest.xml:9:9-35
+	android:allowBackup
+		ADDED from B:\Android Training\MyApplication\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from B:\Android Training\MyApplication\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from B:\Android Training\MyApplication\app\src\main\AndroidManifest.xml:10:9-40
+activity#com.example.mddanish.myapplication.MainActivity
+ADDED from B:\Android Training\MyApplication\app\src\main\AndroidManifest.xml:11:9-17:20
+	android:name
+		ADDED from B:\Android Training\MyApplication\app\src\main\AndroidManifest.xml:11:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from B:\Android Training\MyApplication\app\src\main\AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from B:\Android Training\MyApplication\app\src\main\AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from B:\Android Training\MyApplication\app\src\main\AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from B:\Android Training\MyApplication\app\src\main\AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from B:\Android Training\MyApplication\app\src\main\AndroidManifest.xml:15:27-74
+activity#com.example.mddanish.myapplication.jpMainActivity
+ADDED from B:\Android Training\MyApplication\app\src\main\AndroidManifest.xml:19:9-51
+	android:name
+		ADDED from B:\Android Training\MyApplication\app\src\main\AndroidManifest.xml:19:19-49
+activity#com.example.mddanish.myapplication.bojMainActivity
+ADDED from B:\Android Training\MyApplication\app\src\main\AndroidManifest.xml:20:9-52
+	android:name
+		ADDED from B:\Android Training\MyApplication\app\src\main\AndroidManifest.xml:20:19-50
+activity#com.example.mddanish.myapplication.HelloWorld
+ADDED from B:\Android Training\MyApplication\app\src\main\AndroidManifest.xml:21:9-47
+	android:name
+		ADDED from B:\Android Training\MyApplication\app\src\main\AndroidManifest.xml:21:19-45
+activity#com.example.mddanish.myapplication.Addition
+ADDED from B:\Android Training\MyApplication\app\src\main\AndroidManifest.xml:22:9-45
+	android:name
+		ADDED from B:\Android Training\MyApplication\app\src\main\AndroidManifest.xml:22:19-43
+activity#com.example.mddanish.myapplication.IfElse
+ADDED from B:\Android Training\MyApplication\app\src\main\AndroidManifest.xml:23:9-42
+	android:name
+		ADDED from B:\Android Training\MyApplication\app\src\main\AndroidManifest.xml:23:19-40
+activity#com.example.mddanish.myapplication.ForLoop
+ADDED from B:\Android Training\MyApplication\app\src\main\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from B:\Android Training\MyApplication\app\src\main\AndroidManifest.xml:24:19-42
+activity#com.example.mddanish.myapplication.WhileLoop
+ADDED from B:\Android Training\MyApplication\app\src\main\AndroidManifest.xml:25:9-46
+	android:name
+		ADDED from B:\Android Training\MyApplication\app\src\main\AndroidManifest.xml:25:19-44
+activity#com.example.mddanish.myapplication.DoWhile
+ADDED from B:\Android Training\MyApplication\app\src\main\AndroidManifest.xml:26:9-44
+	android:name
+		ADDED from B:\Android Training\MyApplication\app\src\main\AndroidManifest.xml:26:19-42
+activity#com.example.mddanish.myapplication.SwitchCase
+ADDED from B:\Android Training\MyApplication\app\src\main\AndroidManifest.xml:27:9-47
+	android:name
+		ADDED from B:\Android Training\MyApplication\app\src\main\AndroidManifest.xml:27:19-45
+activity#com.example.mddanish.myapplication.NestedSwitch
+ADDED from B:\Android Training\MyApplication\app\src\main\AndroidManifest.xml:28:9-49
+	android:name
+		ADDED from B:\Android Training\MyApplication\app\src\main\AndroidManifest.xml:28:19-47
+activity#com.example.mddanish.myapplication.Continue
+ADDED from B:\Android Training\MyApplication\app\src\main\AndroidManifest.xml:29:9-45
+	android:name
+		ADDED from B:\Android Training\MyApplication\app\src\main\AndroidManifest.xml:29:19-43
+activity#com.example.mddanish.myapplication.EvenOdd
+ADDED from B:\Android Training\MyApplication\app\src\main\AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from B:\Android Training\MyApplication\app\src\main\AndroidManifest.xml:30:19-42
+activity#com.example.mddanish.myapplication.PrimeNo
+ADDED from B:\Android Training\MyApplication\app\src\main\AndroidManifest.xml:31:9-44
+	android:name
+		ADDED from B:\Android Training\MyApplication\app\src\main\AndroidManifest.xml:31:19-42
+activity#com.example.mddanish.myapplication.Abst
+ADDED from B:\Android Training\MyApplication\app\src\main\AndroidManifest.xml:32:9-41
+	android:name
+		ADDED from B:\Android Training\MyApplication\app\src\main\AndroidManifest.xml:32:19-39
+activity#com.example.mddanish.myapplication.Innr
+ADDED from B:\Android Training\MyApplication\app\src\main\AndroidManifest.xml:33:9-41
+	android:name
+		ADDED from B:\Android Training\MyApplication\app\src\main\AndroidManifest.xml:33:19-39
+activity#com.example.mddanish.myapplication.Inheritance
+ADDED from B:\Android Training\MyApplication\app\src\main\AndroidManifest.xml:34:9-48
+	android:name
+		ADDED from B:\Android Training\MyApplication\app\src\main\AndroidManifest.xml:34:19-46
+activity#com.example.mddanish.myapplication.Constructor
+ADDED from B:\Android Training\MyApplication\app\src\main\AndroidManifest.xml:35:9-48
+	android:name
+		ADDED from B:\Android Training\MyApplication\app\src\main\AndroidManifest.xml:35:19-46
+activity#com.example.mddanish.myapplication.Encapsulation
+ADDED from B:\Android Training\MyApplication\app\src\main\AndroidManifest.xml:36:9-50
+	android:name
+		ADDED from B:\Android Training\MyApplication\app\src\main\AndroidManifest.xml:36:19-48
+activity#com.example.mddanish.myapplication.Final
+ADDED from B:\Android Training\MyApplication\app\src\main\AndroidManifest.xml:37:9-42
+	android:name
+		ADDED from B:\Android Training\MyApplication\app\src\main\AndroidManifest.xml:37:19-40
+activity#com.example.mddanish.myapplication.Poly
+ADDED from B:\Android Training\MyApplication\app\src\main\AndroidManifest.xml:38:9-41
+	android:name
+		ADDED from B:\Android Training\MyApplication\app\src\main\AndroidManifest.xml:38:19-39
+activity#com.example.mddanish.myapplication.Over
+ADDED from B:\Android Training\MyApplication\app\src\main\AndroidManifest.xml:39:9-41
+	android:name
+		ADDED from B:\Android Training\MyApplication\app\src\main\AndroidManifest.xml:39:19-39
+activity#com.example.mddanish.myapplication.Super
+ADDED from B:\Android Training\MyApplication\app\src\main\AndroidManifest.xml:40:9-42
+	android:name
+		ADDED from B:\Android Training\MyApplication\app\src\main\AndroidManifest.xml:40:19-40
+activity#com.example.mddanish.myapplication.MainActivity2
+ADDED from B:\Android Training\MyApplication\app\src\main\AndroidManifest.xml:41:9-50
+	android:name
+		ADDED from B:\Android Training\MyApplication\app\src\main\AndroidManifest.xml:41:19-48
+activity#com.example.mddanish.myapplication.About_us
+ADDED from B:\Android Training\MyApplication\app\src\main\AndroidManifest.xml:42:9-45
+	android:name
+		ADDED from B:\Android Training\MyApplication\app\src\main\AndroidManifest.xml:42:19-43
+meta-data#com.google.android.gms.version
+ADDED from B:\Android Training\MyApplication\app\src\main\AndroidManifest.xml:46:9-48:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from B:\Android Training\MyApplication\app\src\main\AndroidManifest.xml:48:13-66
+	android:name
+		ADDED from B:\Android Training\MyApplication\app\src\main\AndroidManifest.xml:47:13-58
+uses-sdk
+INJECTED from B:\Android Training\MyApplication\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:24.2.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-vector-drawable:24.2.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:24.2.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:24.2.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-v4:24.2.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:24.2.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:24.2.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:24.2.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:24.2.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:24.2.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-compat:24.2.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:24.2.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:24.2.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:24.2.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:24.2.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:24.2.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:24.2.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:24.2.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:24.2.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:24.2.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-compat:24.2.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:24.2.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:24.2.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:24.2.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.0] B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from B:\Android Training\MyApplication\app\src\main\AndroidManifest.xml
+		INJECTED from B:\Android Training\MyApplication\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from B:\Android Training\MyApplication\app\src\main\AndroidManifest.xml
+		INJECTED from B:\Android Training\MyApplication\app\src\main\AndroidManifest.xml

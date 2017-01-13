@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="B:\Android Training\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.0_ec356f58c9345cf818fea10df1adfc2b9d04f8da\classes.dex" />
+    </item>
+    <item
+        jar="B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="B:\Android Training\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.1.0_15da0bbc41f243309bc76b0033126b589ecfdf62\classes.dex" />
+    </item>
+    <item
+        jar="B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="B:\Android Training\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_a8ff722f48540f0126096a416fd753af3659fad4\classes.dex" />
+    </item>
+    <item
+        jar="B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="B:\Android Training\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.1.0_65c9584ced9510a7c657e6ed236a0cdbcad9577e\classes.dex" />
+    </item>
+    <item
+        jar="B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="B:\Android Training\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_be2f91524272ecdaf5256d08c663fc34991aba2c\classes.dex" />
+    </item>
+    <item
+        jar="B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="B:\Android Training\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.0_5b7af341488b79db948c0266fbf43354fd755bbf\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\MD DANISH\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="B:\Android Training\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_0853faee57dd51f1e922651e09a5127731922c89\classes.dex" />
+    </item>
+    <item
+        jar="B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="B:\Android Training\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.0_6b99468b90bfd6dc4f841f231c1d5fd3ff37a6b5\classes.dex" />
+    </item>
+    <item
+        jar="B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="B:\Android Training\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_7fe9f76c44a78b34ad19d995c98783328d476ffa\classes.dex" />
+    </item>
+    <item
+        jar="B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="B:\Android Training\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_ee53a4ac11626048255ed8d73faf2ac1f75803e9\classes.dex" />
+    </item>
+    <item
+        jar="B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="B:\Android Training\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_069aa77e230663a99f11dffc2243c395cdeab4c6\classes.dex" />
+    </item>
+    <item
+        jar="B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="B:\Android Training\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_fb4d34f35cdc15580a8d731b676abefb0dab10b6\classes.dex" />
+    </item>
+    <item
+        jar="B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="B:\Android Training\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_b2aff64f08a2ca72b0db30cb06dfe6f3d55ffc57\classes.dex" />
+    </item>
+    <item
+        jar="B:\Android Training\MyApplication\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="434be2bcdadd6fe37bbe85b4830b7e1fa3830cc0">
+        <dex dex="B:\Android Training\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f69b6483a9415b33977dee082f71cbd192b48ec6\classes.dex" />
+    </item>
+    <item
+        jar="B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="B:\Android Training\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_21487f47722b89e10aff9baf084b9dd4e21df72d\classes.dex" />
+    </item>
+    <item
+        jar="B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="B:\Android Training\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.0_293a4b83f47178a6310d6ffb228283ede5c1dc48\classes.dex" />
+    </item>
+    <item
+        jar="B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="B:\Android Training\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.0_cb10b625f99021462e02eb185ff43bdbe5a061ee\classes.dex" />
+    </item>
+    <item
+        jar="B:\Android Training\MyApplication\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="975ff8190fa8b3c27e4da7ebf68bcbbe00292014">
+        <dex dex="B:\Android Training\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_9ab2d8d4441224e9ceb4cce2f3c9c1ed7ccc80c3\classes.dex" />
+    </item>
+    <item
+        jar="B:\Android Training\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="B:\Android Training\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_c6249e37a4b927b980d605b8e724b51c8b79df50\classes.dex" />
+    </item>
+
+</items>

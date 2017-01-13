@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.mddanish.myapplication"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="24" />
+
+    <application
+        android:name="com.android.tools.fd.runtime.BootstrapApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="com.example.mddanish.myapplication.MainActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <!--
+ ATTENTION: This was auto-generated to add Google Play services to your project for
+     App Indexing.  See https://g.co/AppIndexing/AndroidStudio for more information.
+        -->
+        <activity android:name="com.example.mddanish.myapplication.jpMainActivity" />
+        <activity android:name="com.example.mddanish.myapplication.bojMainActivity" />
+        <activity android:name="com.example.mddanish.myapplication.HelloWorld" />
+        <activity android:name="com.example.mddanish.myapplication.Addition" />
+        <activity android:name="com.example.mddanish.myapplication.IfElse" />
+        <activity android:name="com.example.mddanish.myapplication.ForLoop" />
+        <activity android:name="com.example.mddanish.myapplication.WhileLoop" />
+        <activity android:name="com.example.mddanish.myapplication.DoWhile" />
+        <activity android:name="com.example.mddanish.myapplication.SwitchCase" />
+        <activity android:name="com.example.mddanish.myapplication.NestedSwitch" />
+        <activity android:name="com.example.mddanish.myapplication.Continue" />
+        <activity android:name="com.example.mddanish.myapplication.EvenOdd" />
+        <activity android:name="com.example.mddanish.myapplication.PrimeNo" />
+        <activity android:name="com.example.mddanish.myapplication.Abst" />
+        <activity android:name="com.example.mddanish.myapplication.Innr" />
+        <activity android:name="com.example.mddanish.myapplication.Inheritance" />
+        <activity android:name="com.example.mddanish.myapplication.Constructor" />
+        <activity android:name="com.example.mddanish.myapplication.Encapsulation" />
+        <activity android:name="com.example.mddanish.myapplication.Final" />
+        <activity android:name="com.example.mddanish.myapplication.Poly" />
+        <activity android:name="com.example.mddanish.myapplication.Over" />
+        <activity android:name="com.example.mddanish.myapplication.Super" />
+        <activity android:name="com.example.mddanish.myapplication.MainActivity2" />
+        <activity android:name="com.example.mddanish.myapplication.About_us" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+    </application>
+
+</manifest>

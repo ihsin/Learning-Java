@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Learning JAVA</string>
+    <string name="textView1">Learning JAVA is a learning application containing the basics of Java Programming and it lists commonly used Java programs which can be viewed
+and studied on the go anywhere. It also contains quizzes which will help to enhance Java learning skills.</string>
+    <string name="textView2">This application is the result of the hardwork of five Jadavpur University students, and we would love to help you out in case you have any queries. Feel free to contact us!</string>
+    <string name="textView4">NAME : Md. Danish</string>
+    <string name="textView3">EMAIL : mddanishreply@gmail.com</string>
+    <string name="button1">CALL</string>
+    <string name="textView5">NAME : Debasmita Barua</string>
+    <string name="textView6">EMAIL : debasmita.barua95@gmail.com</string>
+    <string name="button2">CALL</string>
+    <string name="textView7">NAME : Rahul Ranjan Sinha</string>
+    <string name="textView8">EMAIL : rahulranjansinha.ju@gmail.com</string>
+    <string name="button3">CALL</string>
+    <string name="textView9">NAME : Ajay Shah</string>
+    <string name="textView10">EMAIL : shah.ajay95@gmail.com</string>
+    <string name="button4">CALL</string>
+    <string name="textView11">NAME : Shantanu Shubham</string>
+    <string name="textView12">EMAIL : shantanushubham@outlook.com</string>
+    <string name="button5">CALL</string>
+    <string name="textView13">7278079892</string>
+    <string name="textView14">8621829355</string>
+    <string name="textView15">9051284879</string>
+    <string name="textView16">8972556095</string>
+    <string name="textView17">9472161618</string>
+
+</resources>

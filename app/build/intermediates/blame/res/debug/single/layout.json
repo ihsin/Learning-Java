@@ -1,0 +1,258 @@
+[
+    {
+        "merged": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "B:\\Android Training\\MyApplication\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\switchcase.xml",
+        "source": "B:\\Android Training\\MyApplication\\app\\src\\main\\res\\layout\\switchcase.xml"
+    },
+    {
+        "merged": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\primeno.xml",
+        "source": "B:\\Android Training\\MyApplication\\app\\src\\main\\res\\layout\\primeno.xml"
+    },
+    {
+        "merged": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\super_keyword.xml",
+        "source": "B:\\Android Training\\MyApplication\\app\\src\\main\\res\\layout\\super_keyword.xml"
+    },
+    {
+        "merged": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\encapsulation.xml",
+        "source": "B:\\Android Training\\MyApplication\\app\\src\\main\\res\\layout\\encapsulation.xml"
+    },
+    {
+        "merged": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\innr.xml",
+        "source": "B:\\Android Training\\MyApplication\\app\\src\\main\\res\\layout\\innr.xml"
+    },
+    {
+        "merged": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\constructor.xml",
+        "source": "B:\\Android Training\\MyApplication\\app\\src\\main\\res\\layout\\constructor.xml"
+    },
+    {
+        "merged": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main2.xml",
+        "source": "B:\\Android Training\\MyApplication\\app\\src\\main\\res\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\whileloop.xml",
+        "source": "B:\\Android Training\\MyApplication\\app\\src\\main\\res\\layout\\whileloop.xml"
+    },
+    {
+        "merged": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dowhile.xml",
+        "source": "B:\\Android Training\\MyApplication\\app\\src\\main\\res\\layout\\dowhile.xml"
+    },
+    {
+        "merged": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abst_class.xml",
+        "source": "B:\\Android Training\\MyApplication\\app\\src\\main\\res\\layout\\abst_class.xml"
+    },
+    {
+        "merged": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\jp_main.xml",
+        "source": "B:\\Android Training\\MyApplication\\app\\src\\main\\res\\layout\\jp_main.xml"
+    },
+    {
+        "merged": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\evenodd.xml",
+        "source": "B:\\Android Training\\MyApplication\\app\\src\\main\\res\\layout\\evenodd.xml"
+    },
+    {
+        "merged": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\addition.xml",
+        "source": "B:\\Android Training\\MyApplication\\app\\src\\main\\res\\layout\\addition.xml"
+    },
+    {
+        "merged": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ifelse.xml",
+        "source": "B:\\Android Training\\MyApplication\\app\\src\\main\\res\\layout\\ifelse.xml"
+    },
+    {
+        "merged": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\boj_main.xml",
+        "source": "B:\\Android Training\\MyApplication\\app\\src\\main\\res\\layout\\boj_main.xml"
+    },
+    {
+        "merged": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main1.xml",
+        "source": "B:\\Android Training\\MyApplication\\app\\src\\main\\res\\layout\\activity_main1.xml"
+    },
+    {
+        "merged": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about_us.xml",
+        "source": "B:\\Android Training\\MyApplication\\app\\src\\main\\res\\layout\\about_us.xml"
+    },
+    {
+        "merged": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\inheritance.xml",
+        "source": "B:\\Android Training\\MyApplication\\app\\src\\main\\res\\layout\\inheritance.xml"
+    },
+    {
+        "merged": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\over.xml",
+        "source": "B:\\Android Training\\MyApplication\\app\\src\\main\\res\\layout\\over.xml"
+    },
+    {
+        "merged": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hello_world.xml",
+        "source": "B:\\Android Training\\MyApplication\\app\\src\\main\\res\\layout\\hello_world.xml"
+    },
+    {
+        "merged": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\final_main.xml",
+        "source": "B:\\Android Training\\MyApplication\\app\\src\\main\\res\\layout\\final_main.xml"
+    },
+    {
+        "merged": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\poly.xml",
+        "source": "B:\\Android Training\\MyApplication\\app\\src\\main\\res\\layout\\poly.xml"
+    },
+    {
+        "merged": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nestedswitch.xml",
+        "source": "B:\\Android Training\\MyApplication\\app\\src\\main\\res\\layout\\nestedswitch.xml"
+    },
+    {
+        "merged": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\continue_activity.xml",
+        "source": "B:\\Android Training\\MyApplication\\app\\src\\main\\res\\layout\\continue_activity.xml"
+    },
+    {
+        "merged": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\forloop.xml",
+        "source": "B:\\Android Training\\MyApplication\\app\\src\\main\\res\\layout\\forloop.xml"
+    },
+    {
+        "merged": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "B:\\Android Training\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_activity_chooser_view.xml"
+    }
+]
